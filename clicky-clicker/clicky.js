@@ -6,7 +6,7 @@ function clickCounter() {
   } else {
     localStorage.clickcount = 1;
   }
-  document.getElementById("clicks").innerHTML = localStorage.clickcount;
+  document.getElementById("click").innerHTML = localStorage.clickcount;
 }
 /*cps();
 
