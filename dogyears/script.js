@@ -1,4 +1,4 @@
-var myAge = document.getElementById("Age");
+let myAge = prompt('what is your age')
 //age
 let earlyYears = 2;
 earlyYears *= 10.5;
